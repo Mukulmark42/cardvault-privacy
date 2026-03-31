@@ -2,7 +2,7 @@
 
 Last updated: 2026
 
-CardVault respects your privacy.
+CardVault respects your privacy..
 
 ## Information We Collect
 
