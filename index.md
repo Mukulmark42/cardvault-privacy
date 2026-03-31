@@ -23,6 +23,14 @@ We do not sell or share your data with third parties. All data is stored securel
 ## Permissions
 
 We request access to Gmail only to read billing-related emails.
+## Terms of Service
+
+By using CardVault, you agree to:
+- Use the app only for personal financial tracking
+- Not misuse or attempt to reverse engineer the app
+- Accept that data accuracy depends on email parsing
+
+We are not responsible for financial losses or incorrect data.
 
 ## Contact
 
