@@ -26,4 +26,4 @@ We request access to Gmail only to read billing-related emails.
 
 ## Contact
 
-If you have any questions, contact us at: [your-email@example.com](mailto:your-email@example.com)
+If you have any questions, contact us at: [your-email@example.com](mailto:mukulrahaman1@gmailcom)
